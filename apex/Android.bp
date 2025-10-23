@@ -39,8 +39,8 @@ apex {
     apps: ["Bluetooth"],
 
     native_shared_libs: [
-        "liblhdcBT_enc",
-        "liblhdcv5BT_enc",
+        //"liblhdcBT_enc",
+        //"liblhdcv5BT_enc",
     ],
 
     multilib: {
